@@ -8,7 +8,7 @@ public class git {
 		int g = 100;
 		int h = 1000;
 		int i = 1000000;
-		int k = 3000045;
+		
 
 	}
 
